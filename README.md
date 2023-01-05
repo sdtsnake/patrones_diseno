@@ -12,6 +12,9 @@ Es un patrón creacional, este permite delegar la creación de objetos complejos
 la creación de objetos complejos para realizar una implementación más general y no se realizan implementaciones concretas.
 
 # Decorator
+
 Este es un patrón perteneciente a los estructurales, este permite añadir funcionalidades a los objetos dentro de otros objetos encapsulados.   
 
+# Composite
 
+Este es un patrón perteneciente a los estructurales, este permite crear objetos a partir de otros mas simples pero deben de tener en comun alguna clase abstracta o interfaz
