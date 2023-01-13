@@ -13,8 +13,12 @@ la creación de objetos complejos para realizar una implementación más general
 
 # Decorator
 
-Este es un patrón perteneciente a los estructurales, este permite añadir funcionalidades a los objetos dentro de otros objetos encapsulados.   
+Este es un patrón estructural, este permite añadir funcionalidades a los objetos dentro de otros objetos encapsulados.   
 
 # Composite
 
-Este es un patrón perteneciente a los estructurales, este permite crear objetos a partir de otros mas simples pero deben de tener en comun alguna clase abstracta o interfaz
+Este es un patrón estructural, este permite crear objetos a partir de otros mas simples pero deben de tener en comun alguna clase abstracta o interfaz
+
+#Observer
+
+Este patron de diseño de comportamiento y estructural, que nos permite tener una dependecia entre objetos para informar los cambios entre ellos.
