@@ -19,6 +19,6 @@ Este es un patrón estructural, este permite añadir funcionalidades a los objet
 
 Este es un patrón estructural, este permite crear objetos a partir de otros mas simples pero deben de tener en comun alguna clase abstracta o interfaz
 
-#Observer
+# Observer
 
 Este patron de diseño de comportamiento y estructural, que nos permite tener una dependecia entre objetos para informar los cambios entre ellos.
